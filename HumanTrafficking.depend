@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1543371193 source:c:\users\main\documents\mycollege\fall i 2018\mac 286 bb\project\code\humantrafficking\main.cpp
+	"projectgloballearning.h"
+
+1543762282 c:\users\main\documents\mycollege\fall i 2018\mac 286 bb\project\code\humantrafficking\projectgloballearning.h
+	<string>
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1543762448 source:c:\users\main\documents\mycollege\fall i 2018\mac 286 bb\project\code\humantrafficking\projectgloballearning.cpp
+	"projectgloballearning.h"
+
+1543319434 source:c:\users\user\desktop\project\code\humantrafficking\main.cpp
+	"projectgloballearning.h"
+
+1543119756 c:\users\user\desktop\project\code\humantrafficking\projectgloballearning.h
+	<string>
+	<fstream>
+	<iostream>
+	<math.h>
+
+1541073600 source:c:\users\user\desktop\project\code\humantrafficking\projectgloballearning.cpp
+	"projectgloballearning.h"
+
